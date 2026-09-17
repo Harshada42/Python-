@@ -1,1 +1,2 @@
 # Python
+I am here to learn Python, it helps me sharpen my brain and understand to solve problem, in beginning it will look like I am practicing as teen person who just started coding, but it's not like that I am here because I want to learn so I can advance in System Design, Data Structure & Algorithms and Data Engineering. I Know value of programming I have done intermediate project using Python and some tools I do not want to discuss here.
